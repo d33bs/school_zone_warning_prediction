@@ -1,0 +1,12 @@
+pandas
+geopandas
+pyrosm
+folium
+pyproj
+shapely
+matplotlib
+prefect[viz]
+papermill
+nbconvert
+tensorflow
+tensorflow_hub

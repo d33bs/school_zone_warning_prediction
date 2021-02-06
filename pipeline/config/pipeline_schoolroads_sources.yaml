@@ -1,0 +1,8 @@
+school_data:
+    - region_schools:
+        name: "usa"
+        link: "https://nces.ed.gov/programs/edge/data/EDGE_GEOCODE_PUBLICSCH_1819.zip"
+        unzip: True
+        target: "EDGE_GEOCODE_PUBLICSCH_1819.xlsx"
+        lat_colname: "LAT"
+        lon_colname: "LON"
