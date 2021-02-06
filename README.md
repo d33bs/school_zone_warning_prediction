@@ -2,8 +2,7 @@
 
 ## Goal
 
-Predict school zone road warning signage using location, map, and street-level data. Created as part of a volunteer AI challenge: 
-- Omdena + iRAP: Preventing Road Crashes and Saving Lives <br> ([https://omdena.com/projects/ai-road-safety/](https://omdena.com/projects/ai-road-safety/))
+Predict school zone road warning signage using location, map, and street-level data. Created as part of a volunteer AI challenge: _Omdena + iRAP: Preventing Road Crashes and Saving Lives_ ([https://omdena.com/projects/ai-road-safety/](https://omdena.com/projects/ai-road-safety/))
 
 ## Background 
 
