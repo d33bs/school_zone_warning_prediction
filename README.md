@@ -8,7 +8,7 @@ Predict school zone road warning signage using location, map, and street-level d
 
 The International Road Assessment Programme (iRAP) is a registered charity established to help tackle the devastating social and economic cost of road crashes. The charity’s vision is for a world free of high-risk roads. In this project, 50 technology changemakers are building AI based solutions to map the crash risk on roads. Together we can save thousands of lives every year.
 
-My role in this project as a Lead Machine Learning Engineer has involved contributions towards data pipelines, image recognition models, and collaborative team guidance. Using iRAP's road score attributes as a basis, one specific focus area has included work towards a pipeline which finds school road locations, gathers street-level  images using those road locations, and assesses the probability of school-zone warning signage existence from those images.
+My role in this project as a Lead Machine Learning Engineer has involved contributions towards data pipelines, image recognition models, and collaborative team guidance. Using iRAP's road score attributes as a basis, one specific focus area included the work found within this repo towards a pipeline which finds school road locations, gathers street-level  images using those road locations, and assesses the probability of school-zone warning signage existence from those images.
 
 iRAP uses various attributes with specific data codes to determine a 5-star rating for segments of road. Segments with fewer stars are more dangerous and often results in greater human injury. The work in this repo is intended to help automate the coding of one 5-star attribute that deals with the presence of a school zone and school zone warning signage or lights. For more details, see the following page for a reference of the coding specification (found under "iRAP Coding Manual") with the label "School Zone Warning": [https://www.irap.org/specifications/](https://www.irap.org/specifications/)
 
@@ -19,7 +19,7 @@ iRAP uses various attributes with specific data codes to determine a 5-star rati
 
 ## Technologies
 
-Technology used in these pipelines includes (but is not limited to) the following:
+Technology used in the pipeline includes (but is not limited to) the following:
 
 ### Prefect
 The Prefect Python library is "An open-source workflow management system." (https://www.prefect.io/core). In the context of Prefect, we are able to create "tasks" (may be understood to be Python functions) that are coordinated in a "flow". A flow which consists of these coordinated tasks is also considered a directed acyclic graph (DAG) (https://en.wikipedia.org/wiki/Directed_acyclic_graph).
