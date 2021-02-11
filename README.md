@@ -14,8 +14,12 @@ iRAP uses various attributes with specific data codes to determine a 5-star rati
 
 ## Organization
 
-- __./analysis__ <br> Includes analysis-style notebooks used to gather details, find the shape of data, perform tests with existing libraries, etc.
-- __./pipeline__ <br> Includes notebooks intended to be used in automated workflow sequence in Prefect while still retaining notebook-form via Papermill implementation. "pipeline_schoolroads.ipynb" includes the workflow itself, while the other notebooks represent tasks found within that workflow. 
+![Analysis to Pipeline Phase Notebooks](analysis/analysis_to_pipeline.svg?raw=true)
+
+Work for this repo was performed in two steps, an initial "analysis" and then automation-focused "pipeline" phase.
+
+1. __./analysis__ <br> Includes analysis-style notebooks used to gather details, find the shape of data, perform tests with existing libraries, etc.
+1. __./pipeline__ <br> Includes notebooks intended to be used in automated workflow sequence in Prefect while still retaining notebook-form via Papermill implementation. "pipeline_schoolroads.ipynb" includes the workflow itself, while the other notebooks represent tasks found within that workflow. 
 
 ## Technologies
 

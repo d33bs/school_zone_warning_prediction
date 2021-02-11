@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="410px" preserveAspectRatio="none" style="width:539px;height:410px;" version="1.1" viewBox="0 0 539 410" width="539px" zoomAndPan="magnify"><defs><filter height="300%" id="fqmlinxje1zdn" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[64daa5a824998c700cfb188d1583c07e]
+cluster analysis--><rect fill="#FFFFFF" filter="url(#fqmlinxje1zdn)" height="92" style="stroke:#000000;stroke-width:1.5;" width="201" x="7" y="68"/><text fill="#000000" font-family="Segoe UI" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="185" x="15" y="85.1074">Understanding and Analysis</text><!--MD5=[9b2b06656a858eae5c44040bef9ba542]
+cluster automation--><rect fill="#FFFFFF" filter="url(#fqmlinxje1zdn)" height="391" style="stroke:#000000;stroke-width:1.5;" width="295" x="232" y="7"/><text fill="#000000" font-family="Segoe UI" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="340" y="24.1074">Automation</text><!--MD5=[6cebd8022e1b8c9ba6a84a7524f8e7af]
+cluster workflow--><rect fill="#FFFFFF" filter="url(#fqmlinxje1zdn)" height="306" style="stroke:#000000;stroke-width:1.5;" width="231" x="264" y="60"/><text fill="#000000" font-family="Segoe UI" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="66" x="346.5" y="77.1074">Workflow</text><!--MD5=[3a5b45e7a149cebfb680a3a4eabac9d0]
+entity analysis_notebooks--><rect fill="#87CEEB" filter="url(#fqmlinxje1zdn)" height="34.6211" style="stroke:#000000;stroke-width:1.5;" width="136" x="56" y="109"/><rect fill="#87CEEB" height="34.6211" style="stroke:#000000;stroke-width:1.5;" width="136" x="52" y="105"/><text fill="#000000" font-family="Segoe UI" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="120" x="60" y="128.1074">Analysis Notebooks</text><!--MD5=[416270c719f90c55c9d3b26b60bf0330]
+entity prod_notebook1--><polygon fill="#98FB98" filter="url(#fqmlinxje1zdn)" points="307,105,307,143.6211,471,143.6211,471,115,461,105,307,105" style="stroke:#000000;stroke-width:1.5;"/><path d="M461,105 L461,115 L471,115 " fill="#98FB98" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Segoe UI" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="317" y="130.1074">Production Notebook 1</text><!--MD5=[031d6c98d0db3eda446afc8b0b4e6508]
+entity prod_notebook2--><polygon fill="#98FB98" filter="url(#fqmlinxje1zdn)" points="304,204,304,242.6211,468,242.6211,468,214,458,204,304,204" style="stroke:#000000;stroke-width:1.5;"/><path d="M458,204 L458,214 L468,214 " fill="#98FB98" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Segoe UI" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="314" y="229.1074">Production Notebook 2</text><!--MD5=[7ae0d5aac915aca0281230f2fd0c0455]
+entity prod_notebookx--><polygon fill="#98FB98" filter="url(#fqmlinxje1zdn)" points="297.5,303,297.5,341.6211,470.5,341.6211,470.5,313,460.5,303,297.5,303" style="stroke:#000000;stroke-width:1.5;"/><path d="M460.5,303 L460.5,313 L470.5,313 " fill="#98FB98" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Segoe UI" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="307.5" y="328.1074">Production Notebook X...</text><!--MD5=[495cd8eea31434d5092cdfee40559699]
+link prod_notebook1 to prod_notebook2--><path d="M388.422,144.203 C387.94,159.769 387.252,182.021 386.732,198.827 " fill="none" id="prod_notebook1-to-prod_notebook2" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="386.577,203.855,390.8528,194.9827,386.7313,198.8574,382.8566,194.7358,386.577,203.855" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[c77f20c0a4535e2cd630dbc6649c564a]
+link prod_notebook2 to prod_notebookx--><path d="M385.614,243.203 C385.293,258.769 384.835,281.021 384.488,297.827 " fill="none" id="prod_notebook2-to-prod_notebookx" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="384.384,302.855,388.5683,293.9392,384.4869,297.8561,380.57,293.7746,384.384,302.855" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[2379b7e40a957926b27446b446c764ec]
+link analysis_notebooks to workflow--><path d="M192.02,124.5 C205.2455,124.5 218.4713,124.5 231.6971,124.5 C238.3101,124.5 244.923,124.5 251.536,124.5 C254.8425,124.5 258.149,124.5 261.4555,124.5 C262.2821,124.5 263.1088,124.5 263.9354,124.5 " fill="none" id="analysis_notebooks-to-workflow" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="263.9354,124.5,254.9354,120.5,258.9354,124.5,254.9354,128.5,263.9354,124.5" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b4266f9b38a3e0ee43728cc9529c756a]
+@startuml
+skinparam defaultFontName Segoe UI
+
+rectangle "Understanding and Analysis" as analysis {
+    collections "Analysis Notebooks" as analysis_notebooks #skyblue
+}
+
+rectangle "Automation" as automation {
+    rectangle "Workflow" as workflow { 
+        file "Production Notebook 1" as prod_notebook1 #palegreen
+        file "Production Notebook 2" as prod_notebook2 #palegreen
+        file "Production Notebook X..." as prod_notebookx #palegreen
+    }
+}
+
+prod_notebook1 -down-> prod_notebook2
+prod_notebook2 -down-> prod_notebookx
+analysis_notebooks .right.> workflow
+@enduml
+
+PlantUML version 1.2020.21(Mon Nov 30 09:40:11 MST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
