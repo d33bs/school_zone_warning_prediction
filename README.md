@@ -4,6 +4,8 @@
 
 Predict school zone road warning signage using location, map, and street-level data. Created as part of a volunteer AI challenge: _Omdena + iRAP: Preventing Road Crashes and Saving Lives_ ([https://omdena.com/projects/ai-road-safety/](https://omdena.com/projects/ai-road-safety/))
 
+![Overview of Work](analysis/overview.svg?raw=true)
+
 ## Background 
 
 The International Road Assessment Programme (iRAP) is a registered charity established to help tackle the devastating social and economic cost of road crashes. The charity’s vision is for a world free of high-risk roads. In this project, 50 technology changemakers are building AI based solutions to map the crash risk on roads. Together we can save thousands of lives every year.
